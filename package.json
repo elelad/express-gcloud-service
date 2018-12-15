@@ -1,0 +1,14 @@
+{
+  "name": "express-gcloud-service",
+  "version": "1.0.0",
+  "description": "service for google cloud node.js express ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Elad Elram",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
