@@ -1,7 +1,7 @@
 {
   "name": "express-gcloud-service",
   "version": "1.0.0",
-  "description": "service for google cloud node.js express ",
+  "description": "starter service for google cloud node.js express ",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
